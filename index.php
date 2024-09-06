@@ -8,7 +8,7 @@
 </head>
 <body>
     
-<h1 class="text-center p-3">niet</h1>
+<h1 class="text-center p-3">Registro Mantenimiento DGSP</h1>
 <div class="container-fluid row">
 <form class="col-4">
 
