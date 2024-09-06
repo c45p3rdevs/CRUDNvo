@@ -16,198 +16,198 @@
   <div class="mb-3">
     <label for="exampleInputEmail1" class="form-label">No Control</label>
     <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+   
   </div>
 
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Responsable Mantenimiento</label>
+    <input type="text" class="form-control"  name="Responsable de Manteniemiento">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Nombre de Usuario</label>
+    <input type="text" class="form-control"  name="Nombre de usuario">
+   
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Fecha de Manteniemiento</label>
+    <input type="date" class="form-control"  name="Fecha de Mantenimiento">
+   
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Hora</label>
+    <input type="time" class="form-control"  name="hora">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Resguardante</label>
+    <input type="text" class="form-control"  name="resguardante">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Departamento</label>
+    <input type="text" class="form-control"  name="departamento">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Usuario Pc</label>
+    <input type="text" class="form-control"  name="usuario pc">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Nombre Equipo</label>
+    <input type="text" class="form-control"  name="nombre equipo">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">IP</label>
+    <input type="text" class="form-control"  name="ip">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Sistema Operativo</label>
+    <input type="text" class="form-control"  name="sistema operativo">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Memoria RAM</label>
+    <input type="text" class="form-control"  name="memoria ram">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">CPU MARCA</label>
+    <input type="text" class="form-control"  name="cpu marca">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">CPU MODELO</label>
+    <input type="text" class="form-control"  name="cpu modelo">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">CPU SERIE</label>
+    <input type="text" class="form-control"  name="cpu serie">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">CPU Codigo Inventario</label>
+    <input type="text" class="form-control"  name="cpu codigo inventario">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Observaciones</label>
+    <input type="text" class="form-control"  name="observaciones">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Monitor Marca</label>
+    <input type="text" class="form-control"  name="monitor marca">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Monitor Modelo</label>
+    <input type="text" class="form-control"  name="moitor modelo">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Monitor serie</label>
+    <input type="text" class="form-control"  name="monitor serie">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Monitor Codigo Inventario</label>
+    <input type="text" class="form-control"  name="monitor codigo inventario">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">UPS MARCA</label>
+    <input type="text" class="form-control"  name="ups marca">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">UPS Modelo</label>
+    <input type="text" class="form-control"  name="ups modelo">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">UPS Codigo Inventario</label>
+    <input type="text" class="form-control"  name="ups codigo inventario">
+
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Impresora Marca</label>
+    <input type="text" class="form-control"  name="impresora marca">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Impresora IP</label>
+    <input type="text" class="form-control"  name="impresora ip">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Impresora Modelo</label>
+    <input type="text" class="form-control"  name="impresora modelo">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Impresora Serie</label>
+    <input type="text" class="form-control"  name="impresora serie">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Impresora Codigo Inventario</label>
+    <input type="text" class="form-control"  name="impresora codigo inventario">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Escaner Marca</label>
+    <input type="text" class="form-control"  name="escaner marca">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Escaner Modelo</label>
+    <input type="text" class="form-control"  name="escaner modelo">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Escaner Modelo</label>
+    <input type="text" class="form-control"  name="escaner modelo">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Escaner Serie</label>
+    <input type="text" class="form-control"  name="escaner serie">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Escaner Codigo Inventario</label>
+    <input type="text" class="form-control"  name="escaner codigo inventario">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Telefono Marca</label>
+    <input type="text" class="form-control"  name="telefono marca">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Telefono IP</label>
+    <input type="text" class="form-control"  name="telefono ip">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Telefono Modelo</label>
+    <input type="text" class="form-control"  name="telefono modelo">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Telefono Serie</label>
+    <input type="text" class="form-control"  name="telefono serie">
+    
   </div>
   <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">No Control</label>
-    <input type="text" class="form-control"  name="No Control">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label for="exampleInputEmail1" class="form-label">Telefono Codigo Inventario</label>
+    <input type="text" class="form-control"  name="telefono codigo inventario">
+    
   </div>
 
  
